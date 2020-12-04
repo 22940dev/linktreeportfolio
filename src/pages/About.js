@@ -9,7 +9,7 @@ const About = () => {
       alt="logo"
       width="150"
       height="150"
-      src={process.env.PUBLIC_URL + '2020_wafeeq_headshot.jpeg'}
+      src={process.env.PUBLIC_URL + '2020_wafeeq_headshot.png'}
       className="mb-4"
       rounded
     />
