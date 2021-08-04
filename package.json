@@ -1,6 +1,6 @@
 {
-  "homepage": "http://wmujahid.github.io/linktree_portfolio",
-  "name": "linktree_portfolio",
+  "homepage": "https://linktreeportfolio.vercel.app",
+  "name": "linktreeportfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
