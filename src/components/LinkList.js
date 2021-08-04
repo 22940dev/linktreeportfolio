@@ -5,9 +5,9 @@ import LinkButton from './LinkButton';
 const LinkList = () => {
   const links = [
     'https://www.instagram.com/wmujahid47/',
-    'https://twitter.com/wmujahid47',
-    'https://www.linkedin.com/in/wmujahid47/',
-    'https://github.com/wmujahid',
+    'https://twitter.com/Alec',
+    'https://www.linkedin.com/in/doc22940/',
+    'https://github.com/22940dev',
   ];
 
   return (
